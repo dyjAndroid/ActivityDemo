@@ -1,0 +1,1 @@
+include ':app', ':serverdemo', ':broadcastreceiverdemo', ':contentproviderdemo'
